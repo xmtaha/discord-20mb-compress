@@ -1,4 +1,7 @@
-##TR
+
+## Discord 20mb Compress
+
+## TR
 Windows için hazırlanmış discord 20mb sınırına istinaden yapıldı.
 
 Dosya seçerek veya dosyaları pencereye sürükleyip bırakarak toplu işlem kuyruğu oluşturma.
@@ -10,7 +13,7 @@ NVIDIA NVENC donanım kodlaması; başarısız olursa CPU tabanlı libx264 ile y
 İşlem ilerlemesi, durum ve günlük kayıtlarını arayüzde gösterme.
 Kaynak videonun yanına çıktı dosyası kaydetme.
 
-##EN
+## EN
 Developed for Windows with Discord’s 20 MB file size limit in mind.
 
 Create a batch processing queue by selecting files or dragging and dropping them into the window.
